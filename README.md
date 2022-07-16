@@ -2,12 +2,12 @@
 
 ## Includes
 
-- [Styled-Components](https://styled-components.com)
+- [Styled Components](https://styled-components.com)
 - [React Icons](https://react-icons.github.io/react-icons)
 
 ## Package Manager
 
-- [yarn](https://yarnpkg.com)
+- [Yarn](https://yarnpkg.com)
 
 ## Clone
 
@@ -23,4 +23,4 @@ cd nextjs-template && yarn && yarn dev
 
 ### Contributors
 
-- Mengsreang-Chhoeung <chhoeungmengsrean789@gmail.com>
+- Mengsreang-Chhoeung <chhoeungmengsreang789@gmail.com>
