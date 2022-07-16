@@ -21,6 +21,6 @@ git clone https://github.com/Code-Is-Mine/nextjs-template.git
 cd nextjs-template && yarn && yarn dev
 ```
 
-### Contributors
+## Contributors
 
 - Mengsreang-Chhoeung <chhoeungmengsreang789@gmail.com>
