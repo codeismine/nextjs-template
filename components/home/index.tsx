@@ -14,8 +14,6 @@ const Container = styled.div`
 `;
 
 const ImageContent = styled(Image)`
-  width: 250px;
-  height: 250px;
   border-radius: ${({ theme }) => theme.shape.borderRadius};
 `;
 
